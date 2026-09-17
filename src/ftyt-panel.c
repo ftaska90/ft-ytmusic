@@ -1,3 +1,10 @@
+/*
+ * FT-YT Music Panel
+ * Created by ft_aska.90
+ * Copyright (c) 2026 ft_aska.90
+ * SPDX-License-Identifier: MIT
+ */
+
 #define _POSIX_C_SOURCE 200809L
 #include <ctype.h>
 #include <errno.h>
