@@ -1,4 +1,9 @@
 #!/usr/bin/env fish
+# FT-YT Music Panel
+# Created by ft_aska.90
+# Copyright (c) 2026 ft_aska.90
+# SPDX-License-Identifier: MIT
+
 set -e
 
 set repo_dir (cd (dirname (status filename)); and pwd)
