@@ -1,5 +1,7 @@
 # ft-ytmusic
 
+**Created by ft_aska.90**
+
 FT-YT panel musik untuk XFCE GenMon. Repo ini menyimpan baseline terakhir panel yang dipakai: fixed-width title, spectrum 24 band berwarna, klik panel untuk play/pause, dan daemon cache supaya refresh GenMon tetap ringan.
 
 ## Baseline terakhir
@@ -97,3 +99,13 @@ ftyt-panel start
 ```
 
 Untuk baseline repo ini, playlist default tetap playlist `mix` no.1 di atas.
+
+## Author
+
+FT-YT Music Panel dibuat oleh **ft_aska.90**.
+
+## License
+
+Project ini menggunakan **MIT License**.
+
+Copyright (c) 2026 **ft_aska.90**. Lihat file [`LICENSE`](LICENSE) untuk detail lengkap.
